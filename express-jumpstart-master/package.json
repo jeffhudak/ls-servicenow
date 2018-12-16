@@ -1,0 +1,17 @@
+{
+    "name": "express-jumpstart",
+    "version": "1.0.0",
+    "author": "Shaun Rashid",
+    "description": "A basic Node web server using Express",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/shaunrashid/express-jumpstart/express-jumpstart.git"
+    },
+    "keywords": ["express", "server", "jumpstart"],
+    "main": "server.js",
+    "start": "node server.js",
+    "dependencies": {
+        "express": "^4.0.0"
+    }
+}
